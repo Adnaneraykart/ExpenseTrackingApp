@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Uyg" parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">#616161</item> <!-- Gri tonunda bir ana renk -->
+        <item name="colorPrimaryVariant">#424242</item> <!-- Daha koyu bir gri -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Ana renk üzerindeki yazı beyaz -->
+        <item name="colorSecondary">#9E9E9E</item> <!-- İkincil renk daha açık gri -->
+        <item name="colorSecondaryVariant">#BDBDBD</item> <!-- Daha açık bir gri tonu -->
+        <item name="cardBackgroundColor">#F5F5F5</item> <!-- Açık gri arka plan -->
+        <item name="colorSurface">#E0E0E0</item> <!-- Kartların veya düğmelerin yüzeyi -->
+        <item name="colorOnSurface">#212121</item> <!-- Kartların üzerindeki yazı rengi -->
+        <item name="colorError">#D32F2F</item> <!-- Hata rengi (kırmızı) -->
+        <item name="colorOnError">#FFFFFF</item> <!-- Hata yazısı beyaz -->
+        <item name="android:textColorPrimary">#212121</item> <!-- Ana yazı rengi -->
+        <item name="android:textColorSecondary">#757575</item> <!-- İkincil yazı rengi -->
+    </style>
+
+
+    <style name="Theme.Uyg" parent="Base.Theme.Uyg">
+    </style>
+</resources>
